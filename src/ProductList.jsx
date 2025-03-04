@@ -293,11 +293,11 @@ const handleItemRemove = (itemName) => {
              <div className="navbar" style={styleObj}>
             <div className="tag">
                <div className="luxury">
-               <img src="https://cdn.pixabay.com/photo/2020/08/05/13/12/eco-5465432_1280.png" alt="" />
+               <img src="https://s3.us-east-1.amazonaws.com/cdn.designcrowd.com/blog/101-plant-logos-for-creative-ideas/eco-potted-plant-by-creativepixels-brandcrowd.png" alt="" />
                <a href="/" style={{textDecoration:'none'}}>
                         <div>
-                    <h3 style={{color:'white'}}>Paradise Nursery</h3>
-                    <i style={{color:'white'}}>Where Green Meets Serenity</i>
+                    <h3 style={{color:'white'}}>Green Heavens</h3>
+                    <i style={{color:'white'}}>Bring nature home , one plant at a time</i>
                     </div>
                     </a>
                 </div>
